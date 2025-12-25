@@ -1,0 +1,6 @@
+file,pages,total_chars,avg_chars_per_page,zero_text_pages
+data\dsa.pdf,35,35523,1014.94,0
+data\java.pdf,181,169889,938.61,0
+data\leetcode.pdf,227,157316,693.02,0
+data\python.pdf,77,0,0.0,77
+data\pythoncolab.pdf,80,0,0.0,80
